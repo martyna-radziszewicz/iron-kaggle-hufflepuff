@@ -20,4 +20,4 @@
 The data was cleaned and analysed using pandas. Visualisations were created using matplotib, seaborn and Tableau
 
 ## Results
-[Presentation link]([https://docs.google.com/presentation/d/1ioHnbpCwMUgiWaAehDMIjyOZFt5ZwOBoLunzhM56YhI/edit#slide=id.p](https://www.canva.com/design/DAGiWDpJ7bw/OBsv0zc6nIhJxfMY-qKZYg/edit))
+[Presentation link]([https://docs.google.com/presentation/d/1ioHnbpCwMUgiWaAehDMIjyOZFt5ZwOBoLunzhM56YhI/edit#slide=id.p])
